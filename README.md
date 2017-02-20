@@ -5,7 +5,8 @@
 
 <p> Project One for Newbie Coder Warehouse!</p>
 
-Group 1
+<h2>Group 1</h2>
 <br>
   Jacob
+<br>
   Colten
